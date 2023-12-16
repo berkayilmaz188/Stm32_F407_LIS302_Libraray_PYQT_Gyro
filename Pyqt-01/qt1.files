@@ -1,0 +1,15 @@
+Stm Real Time Graph.py
+qfi/__pycache__/qfi_ADI.cpython-311.pyc
+qfi/__pycache__/qfi_ALT.cpython-311.pyc
+qfi/__pycache__/qfi_HSI.cpython-311.pyc
+qfi/__pycache__/qfi_SI.cpython-311.pyc
+qfi/__pycache__/qfi_TC.cpython-311.pyc
+qfi/__pycache__/qfi_VSI.cpython-311.pyc
+qfi/__pycache__/qfi_rc.cpython-311.pyc
+qfi/qfi_ADI.py
+qfi/qfi_ALT.py
+qfi/qfi_HSI.py
+qfi/qfi_SI.py
+qfi/qfi_TC.py
+qfi/qfi_VSI.py
+qfi/qfi_rc.py

@@ -1,0 +1,5 @@
+../Core/Src/lis302_replica.c:24:13:lis302dl_write_reg	16	static
+../Core/Src/lis302_replica.c:31:6:lis302dl_init	16	static
+../Core/Src/lis302_replica.c:37:6:read_lis302	32	static
+../Core/Src/lis302_replica.c:63:6:transmit_data	128	static
+../Core/Src/lis302_replica.c:70:6:compute_orientation	40	static
