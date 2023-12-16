@@ -19,3 +19,6 @@ The X, Y, Z data received via USB was visualized in the animation part, which wa
 ![1](https://r.resimlink.com/qThQ2x-.png)
 
 ![2](https://r.resimlink.com/ldyJ_tWv7fj.png)
+
+![3](https://r.resimlink.com/9WAQe.png)
+
